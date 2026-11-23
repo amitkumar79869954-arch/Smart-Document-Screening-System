@@ -1,0 +1,8 @@
+Flask
+opencv-python
+numpy
+Pillow
+pytesseract
+gunicorn
+google-genai
+python-dotenv
